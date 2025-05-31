@@ -1,13 +1,13 @@
 <!-- ──────────────────────────────────────────────────────────── -->
 <!-- REDES SOCIALES · se muestran arriba en formato badge -->
 <p align="center">
-  <a href="https://facebook.com/TU_USUARIO" target="_blank">
+  <a href="https://facebook.com/anthony.g.9085" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/591TU_NUMERO" target="_blank">
+  <a href="https://wa.me/59176537648" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/marco-antonio-gomez-gutierrez-596531273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anthonyansoni24@gmail.com">
@@ -26,7 +26,7 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Ingeniero de Sistemas egresado de **Universidad Publica de El Alto**  
+- 🎓 Ingeniero de Sistemas egresado de la **Universidad Publica de El Alto**  
 - 💼 Desarrollador Full-Stack con enfoque en Laravel + React  
 - 🌱 En constante aprendizaje de nuevas tecnologías para estar al día con las últimas tendencias del desarrollo.  
 - 📫 Contacto: **anthonyansoni24@gmail.com**
@@ -44,7 +44,7 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ansoni241&show_icons=true&theme=radical" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansoni241&theme=radical" />
