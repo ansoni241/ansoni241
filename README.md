@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h1 align="center">Hola 👋, soy Anthony Gomez</h1>
+<h1 align="center">Hola 👋, soy Marco Antonio Gomez Gutierrez</h1>
 <h3 align="center">Ingeniero de Sistemas</h3>
 
 <p align="center">
@@ -26,9 +26,9 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Ingeniero de Sistemas egresado de **[pon aquí tu universidad]**  
+- 🎓 Ingeniero de Sistemas egresado de **Universidad Publica de El Alto**  
 - 💼 Desarrollador Full-Stack con enfoque en Laravel + React  
-- 🌱 Aprendiendo DevOps & Cloud para desplegar a gran escala  
+- 🌱 En constante aprendizaje de nuevas tecnologías para estar al día con las últimas tendencias del desarrollo.  
 - 📫 Contacto: **anthonyansoni24@gmail.com**
 
 ---
@@ -53,12 +53,12 @@
 ---
 
 ### 📣 Frase que me inspira
-> *“El que no vive para servir, no sirve para vivir.”* – **Madre Teresa de Calcuta**
+> *“El conocimiento cobra sentido cuando se convierte en servicio: programar es construir soluciones para los demás.”*
 
 ---
 
 <!--            ESTA LISTA SE ACTUALIZA AUTOMÁTICAMENTE                     -->
-### 📌 Proyectos destacados
+<!--### 📌 Proyectos destacados-->
 <!-- start: readme-repos-list -->
 <!-- end: readme-repos-list -->
 
