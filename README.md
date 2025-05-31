@@ -36,10 +36,10 @@
 ### 🚀 Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,bootstrap,mysql,js,html,css,vite,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,bootstrap,tailwind,mysql,js,html,css,vite,git,github,linux" />
 </p>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DSpace_logo.png/320px-DSpace_logo.png" alt="dspace" height="40" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.metabiblioteca.com%2Fdspace%2F&psig=AOvVaw0WmQXf4yS4iPdeJJWRuKyv&ust=1748805460316000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMig2ZS2zo0DFQAAAAAdAAAAABAE" alt="dspace" height="40" />
 </p>
 
 ---
